@@ -1,0 +1,23 @@
+.btn-task {
+    margin-right: 1em;
+}
+
+button:not(:last-child) {
+    margin-right: 1em;
+}
+
+.spaced-bottom {
+    margin-bottom: 1em;
+}
+
+#button-submit {
+    margin-right: 0 !important;
+}
+
+#button-cancel-modify {
+    margin-left: 1em;
+}
+
+.div-container {
+    padding-top: 2em;
+}

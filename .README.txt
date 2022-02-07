@@ -1,0 +1,9 @@
+-------------------------
+	  README
+-------------------------
+
+I connected the front-end with the back-end on port 5000, running it on InterviewTest.
+Thanks for reviewing my test.
+
+Regards,
+Álvaro.
